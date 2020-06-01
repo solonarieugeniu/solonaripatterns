@@ -1,4 +1,4 @@
-package edu.utm.patterns.factory.adapter;
+package edu.utm.patterns.structural.adapter;
 
 public class CarSpeedAdapterImplementation implements CarSpeedAdapter {
     private CarSpeed carSpeed;

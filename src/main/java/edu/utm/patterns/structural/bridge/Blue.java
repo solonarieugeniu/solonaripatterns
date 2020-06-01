@@ -1,4 +1,4 @@
-package edu.utm.patterns.factory.bridge;
+package edu.utm.patterns.structural.bridge;
 
 public class Blue implements BuildColor {
     @Override

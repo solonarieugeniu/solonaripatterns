@@ -1,4 +1,4 @@
-package edu.utm.patterns.factory.decorator;
+package edu.utm.patterns.structural.decorator;
 
 public abstract class RoomDecorator implements Room {
     private Room room;

@@ -1,4 +1,4 @@
-package edu.utm.patterns.factory.bridge;
+package edu.utm.patterns.structural.bridge;
 
 public abstract class Room {
     protected BuildColor buildColor;

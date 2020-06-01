@@ -1,9 +1,9 @@
 package edu.utm.patterns;
 
-import edu.utm.patterns.factory.adapter.HondaCrv;
-import edu.utm.patterns.factory.adapter.CarSpeed;
-import edu.utm.patterns.factory.adapter.CarSpeedAdapter;
-import edu.utm.patterns.factory.adapter.CarSpeedAdapterImplementation;
+import edu.utm.patterns.structural.adapter.HondaCrv;
+import edu.utm.patterns.structural.adapter.CarSpeed;
+import edu.utm.patterns.structural.adapter.CarSpeedAdapter;
+import edu.utm.patterns.structural.adapter.CarSpeedAdapterImplementation;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

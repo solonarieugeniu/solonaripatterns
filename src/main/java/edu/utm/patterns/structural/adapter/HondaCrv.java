@@ -1,4 +1,4 @@
-package edu.utm.patterns.factory.adapter;
+package edu.utm.patterns.structural.adapter;
 
 public class HondaCrv implements CarSpeed {
     @Override

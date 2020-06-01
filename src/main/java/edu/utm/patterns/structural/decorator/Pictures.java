@@ -1,4 +1,4 @@
-package edu.utm.patterns.factory.decorator;
+package edu.utm.patterns.structural.decorator;
 
 public class Pictures extends RoomDecorator{
 
